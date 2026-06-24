@@ -108,7 +108,8 @@ Rajani Jayraj Salunkhe
 Bachelor of Computer Science Engineering
 D. Y. Patil Agriculture and Technical University
 
-•	Git Hub Link: Rajani841/Smart-Parking-System-For-Smart-Cities
+•	Git Hub Link: https://github.com/Rajani841/Smart-Parking-System-For-Smart-Cities 
+
 •	Demo Link: https://drive.google.com/file/d/1wvYdFqOnJcG05KXdYM5askNyLjAeAaOJ/view?usp=sharing
 
 
